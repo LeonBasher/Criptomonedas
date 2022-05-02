@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRIPTOMONEDAS</string>
+
+    <string-array name="cripto">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>NEAR Protocol</item>
+        <item>Dogecoin</item>
+        <item>Shiba Inu</item>
+    </string-array>
+</resources>
